@@ -1,0 +1,20 @@
+[project]
+name = "gnn-mini"
+version = "0.1.0"
+description = "GraphSAGE (PyG) vs. feature-only baselines for illicit-transaction detection on the Elliptic Bitcoin graph"
+requires-python = "==3.11.*"
+dependencies = [
+    "matplotlib>=3.11.2",
+    "pandas>=3.1.0",
+    "pyg-lib",
+    "scikit-learn>=1.9.1",
+    "torch==2.12.0",
+    "torch-geometric>=2.8.1",
+    "xgboost>=3.2.0",
+]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+pyg-lib = { url = "https://data.pyg.org/whl/torch-2.12.0%2Bcpu/pyg_lib-0.7.0%2Bpt212-cp311-cp311-macosx_11_0_arm64.whl" }

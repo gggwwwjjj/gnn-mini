@@ -1,0 +1,24 @@
+[sage_s0_f5-5] data loaded in 0.5s: train 26381 val 3513 test 16670
+[sage_s0_f5-5] test illicit P 0.615 R 0.512 F1 0.558 PR-AUC 0.532 | 23s
+[sage_s0_f10-10] data loaded in 0.5s: train 26381 val 3513 test 16670
+[sage_s0_f10-10] test illicit P 0.564 R 0.560 F1 0.562 PR-AUC 0.519 | 14s
+[sage_s0_f25-10] data loaded in 0.5s: train 26381 val 3513 test 16670
+[sage_s0_f25-10] test illicit P 0.529 R 0.589 F1 0.557 PR-AUC 0.517 | 22s
+[sage_s0_f-1--1] data loaded in 0.5s: train 26381 val 3513 test 16670
+[sage_s0_f-1--1] test illicit P 0.565 R 0.584 F1 0.574 PR-AUC 0.546 | 22s
+[sage_s1_f5-5] data loaded in 0.5s: train 26381 val 3513 test 16670
+[sage_s1_f5-5] test illicit P 0.559 R 0.557 F1 0.558 PR-AUC 0.512 | 10s
+[sage_s1_f10-10] data loaded in 0.5s: train 26381 val 3513 test 16670
+[sage_s1_f10-10] test illicit P 0.548 R 0.562 F1 0.555 PR-AUC 0.529 | 13s
+[sage_s1_f25-10] data loaded in 0.5s: train 26381 val 3513 test 16670
+[sage_s1_f25-10] test illicit P 0.491 R 0.597 F1 0.539 PR-AUC 0.491 | 18s
+[sage_s1_f-1--1] data loaded in 0.5s: train 26381 val 3513 test 16670
+[sage_s1_f-1--1] test illicit P 0.535 R 0.589 F1 0.561 PR-AUC 0.515 | 33s
+[sage_s2_f5-5] data loaded in 0.5s: train 26381 val 3513 test 16670
+[sage_s2_f5-5] test illicit P 0.592 R 0.568 F1 0.580 PR-AUC 0.583 | 17s
+[sage_s2_f10-10] data loaded in 0.5s: train 26381 val 3513 test 16670
+[sage_s2_f10-10] test illicit P 0.596 R 0.593 F1 0.594 PR-AUC 0.593 | 15s
+[sage_s2_f25-10] data loaded in 0.5s: train 26381 val 3513 test 16670
+[sage_s2_f25-10] test illicit P 0.521 R 0.578 F1 0.548 PR-AUC 0.528 | 12s
+[sage_s2_f-1--1] data loaded in 0.5s: train 26381 val 3513 test 16670
+[sage_s2_f-1--1] test illicit P 0.523 R 0.534 F1 0.528 PR-AUC 0.467 | 19s
